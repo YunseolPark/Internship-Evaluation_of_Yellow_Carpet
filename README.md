@@ -6,7 +6,7 @@
 > [박준영](https://github.com/parkjunyoung27), [배수혜](https://github.com/SuHae-Bae)
 > - Analysts
 > [강민경](https://github.com/kang260), [김지현](https://github.com/kjjh714), [신현영](https://github.com/oliviahs)
-> - Proposal and preseentation writers
+> - Proposal and presentation writers
 > [박윤설](https://github.com/YunseolPark), [김성민](https://github.com/qwe3965)
 > - Presenter
 > [박재민](https://github.com/JAM-PARK)
